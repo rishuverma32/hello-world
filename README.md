@@ -4,10 +4,5 @@ sachin(){
 }
 hi... this side rishu
 
-
-
-
-
-
 rishu(){
 }
