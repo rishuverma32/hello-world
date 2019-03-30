@@ -7,3 +7,10 @@ singh(){
 }
 hi... this side rishu
 
+
+
+
+
+
+rishu(){
+}
